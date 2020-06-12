@@ -1,4 +1,4 @@
-# Deep-Learning-Methods-for-Detecting-Cyberbullying-in-Social-Media-Platforms
+#Deep-Learning-Methods-for-Detecting-Cyberbullying-in-Social-Media-Platforms
 
 In this project, it is aimed to detect cyber bullying in social networks with deep
 learning and natural language processing techniques. The concept of cyberbullying, the
