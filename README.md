@@ -5,7 +5,7 @@ learning and natural language processing techniques. The concept of cyberbullyin
 prevalence of cyberbullying, its impact on humans and its consequences were
 investigated. Deep learning methods to be used in the project were researched and it was
 decided to use CNN, GRU and LSTM models in the project. A dataset was collected from
-three different platforms, Twitter, FormSpring and Wikipedia, containing a total of
+three different platforms; Twitter, FormSpring and Wikipedia, containing a total of
 144,000 sentences. Pre-processing processes, which are the basis of natural language
 processing, are applied to this data set and the data are made available to the machines.
 Later, models were created with CNN, GRU and LSTM methods, and 80% of the data set
